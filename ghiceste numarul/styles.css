@@ -1,0 +1,13 @@
+.container {
+    width: 70%;
+    margin: 20px auto;
+    box-shadow: 3px 3px 10px #888;
+    padding: 10px;
+}
+input, button {
+    padding: 5px;
+    outline: none;
+}
+button {
+    cursor: pointer;
+}
